@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    padding: 0;
+     background-color: #eee;
+}
+main{
+    background-color: #eee;
+}
+#div-1{
+    border-radius: 25px;
+}
