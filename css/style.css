@@ -9,3 +9,7 @@ main{
 #div-1{
     border-radius: 25px;
 }
+.nameWarning{
+  color: red;
+  font-size: small;
+}
